@@ -525,3 +525,8 @@ div#maincontent {
 section p {
 	margin-right: 30px;
 }
+
+section.info hr.star-light:after {
+  background-color: #85C1E9;
+  color: white;
+}
