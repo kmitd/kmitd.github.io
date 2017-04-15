@@ -530,3 +530,7 @@ section.info hr.star-light:after {
   background-color: #85C1E9;
   color: white;
 }
+
+.thumbnail p {
+	font-size: 16px;
+}
