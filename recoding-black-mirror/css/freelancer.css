@@ -520,3 +520,8 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+
+/* custom css*/
+section p {
+	margin-right: 30px;
+}
