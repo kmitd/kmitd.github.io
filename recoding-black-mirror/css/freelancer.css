@@ -526,11 +526,42 @@ section p {
 	margin-right: 30px;
 }
 
-section.info hr.star-light:after {
-  background-color: #85C1E9;
+section.info, section.info hr.star-light:after {
+  background-color: #1C7773;
   color: white;
 }
 
 .thumbnail p {
 	font-size: 16px;
+}
+
+section.warning, section.warning hr.star-light:after {
+  background-color: #679289;
+  color: white;
+}
+
+section.success, section.success hr.star-light:after {
+  background-color: #183446;
+  color: white;
+}
+
+section.danger, section.danger hr.star-light:after {
+  background-color: #DCF763;
+  color: #1C7773;
+}
+section.danger hr.star-light {
+	 border-color: #1C7773;
+}
+
+header, header hr.star-light:after {	
+	background-color:#104547;
+	color:white;
+}
+
+.navbar-custom .navbar-nav li.active a ,
+.navbar-custom .navbar-nav li.active a:hover,
+.navbar-custom .navbar-nav li.active a:focus,
+.navbar-custom .navbar-nav li.active a:active {
+  color: white;
+  background: #1C7773;
 }
