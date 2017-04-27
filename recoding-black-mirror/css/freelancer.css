@@ -522,9 +522,7 @@ div#maincontent {
 }
 
 /* custom css*/
-section p {
-	margin-right: 30px;
-}
+
 
 section.info, section.info hr.star-light:after {
   background-color: #1C7773;
@@ -564,4 +562,22 @@ header, header hr.star-light:after {
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
   background: #1C7773;
+}
+
+p, h4 {
+	line-height: 1.8em;	
+}
+
+h1 ,h2, h3,h4,h5, h6 {
+	letter-spacing: 0.07em;
+}
+
+.highlighttext {
+	background: rgba(255, 230, 0, 0.5);
+    padding: 5px 5px;
+    margin: 20px 10px !important;
+  
+	line-height: 2;
+    border-radius: 5px;
+    display:inline;
 }
