@@ -1,0 +1,38 @@
+Call for papers
+Re-coding Black Mirror- https://kmitd.github.io/recoding-black-mirror/
+Half day workshop at the 16th International Semantic Web Conference (ISWC 2017)
+21 or 22 October 2017, Vienna 
+ 
+Black Mirror is a British sci-fi series directed by Charlie Brooker portraying a dystopian future emanating from the wide use of digital advancements. Even though Black Mirror’s episodes do not entirely rely on the widespread availability of existing technology, some of the advancements presented are not from such a distant future. The ethical and social implications emerging from the increasing reliance on digital media -partly depicted in the series- has been a longstanding debate in critical studies underlying issues around privacy, social control, social and individual justice and other key values around Democracy such as freedom of speech. Computer science has picked up on such kind of issues focusing mainly on privacy offering technical solutions such as privacy by design and encryption amongst other tools.
+Re-coding Black Mirror is a half-day workshop which aims at promoting a dialogue between semantic web researchers and social scientists to address emerging social phenomena from different perspectives looking at case scenarios similar to the ones depicted in Black Mirror and explore potential semantic solutions to societal and ethical challenges. It will also be a forum for raising opportunities of networking with scholars from different fields to explore novel research problems that can be relevant to both communities. 
+ 
+TOPICS
+ 
+Re-coding Black Mirror is essentially about creating connections between researchers building semantic web technologies and interested in their potential future implication on society, and researchers studying such impact of technology interested in the societal and ethical risks of such technological advances. We therefore expect two different types of works to be presented at the workshop, as described below. We provide brief summaries of examples of what those kinds of work could be. Possible submissions are of course not restricted to those examples, but works addressing those scenarios would be very much welcome too.
+ 
+  * Works showing how semantic web technologies can enable scenarios like the ones depicted in Black Mirror: Here we are looking at how ongoing research in the semantic web community could lead to technological advances similar to what is presented in one specific episode (or a set of episodes if it is a recurring trend). For example:
+       - How could advances in semantically combining results in natural language processing and social media analysis lead to the ability to create a bot mimicking the personality of a dead person from their online contributions? (S2E1)
+       - How could semantic technologies be used to integrate information about another person from multiple online sources (digital footprinting), providing a mean for stalking or even blackmailing them? (S3E3)
+ 
+  * Works showing how semantic web technologies can be used to prevent or reduce the risks depicted in Black Mirror: Many of the episodes in Black Mirror rely on a practice and use of technology which is either unexpected in itself, or which consequences are unexpected. Here we are looking at how semantic web technologies could reduce those risks. For example:
+     - How could relying on semantic relations between people and information about their network/context prevents the appearance of extreme cases in user ratings? (S3E1)
+     - How could semantic content and network analysis be used to reduce or counter the spread of hate on social media? (S3E6)
+ 
+SUBMISSION
+ 
+Please submit your contribution to the workshop by July 21st 2017 (23:59 Hawaii time) through the easychair system (see [1]). We accept three categories of submissions: full papers (max 12 pages) on research and applied technologies, short papers (max 6 pages) about visions and positions on forthcoming challenges and two page abstracts on the societal and ethical risks of the aforementioned technologies. 
+All papers should be formatted using the Springer LNCS template and submitted as PDF (see [2]).
+We expect each paper to take as a starting point one futuristic scenario, either directly from Black Mirror or of a similar nature, as motivation for the work presented.
+ 
+ORGANISERS
+ 
+- PINELOPI TROULLINOU, Knowledge Media Institute, The Open University, UK
+- MATHIEU D'AQUIN, Insight Centre for Data Analytics, NUI Galway, Ireland
+- ILARIA TIDDI, Knowledge Media Institute, The Open University, UK
+ 
+PROGAMME COMMITTEE
+ 
+TBC.
+ 
+[1] https://easychair.org/conferences/?conf=rbm2017
+[2] https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
