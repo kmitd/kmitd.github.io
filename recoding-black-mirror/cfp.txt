@@ -48,6 +48,7 @@ Dimitris Tsapogas, Department of Computer Science, University of Oxford, United 
 Nikolas Thomopoulos, Systems Management and Strategy, University of Greenwich, United Kingdom
 Lachlan Urquhart, Information Technology Law, Horizon Digital Economy Research Institute, United Kingdom
 Frank Van Harmelen, Network Institute, Vrije Universiteit Amsterdam, The Netherlands
+Pieter Verdegem,  School of Media, Arts & Design, University of Westminster, United Kingdom
 Serena Villata,  SPARKS-WIMMICS, INRIA, France
  
 [1] https://easychair.org/conferences/?conf=rbm2017
