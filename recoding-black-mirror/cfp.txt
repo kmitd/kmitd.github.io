@@ -32,24 +32,45 @@ ORGANISERS
  
 PROGAMME COMMITTEE
  
+Kirstie Ball, School of Management, University of St. Andrews, United Kingdom
+
 Pompeu Casanovas, Institute of Law and Technology, Universidad Autònoma de Barcelona, Spain
+
 Lina Dencik, School of Journalism, Media and Cultural Studies, Cardiff University, United Kingdom
+
 Sara Degli Esposti, Internet Interdisciplinary Institute, Universdad Oberta de Catalunya, Spain
+
 Stefan Dietze, L3S Research Cente, University of Leipzig, Germany
+
 Seda Guerses, COSIC Research Group, K.U. Leuven, Belgium
+
 Pascal Hitzler, Data Semantics Laboratory, Wright State University, U.S.A.
+
 Sabrina Kirrane, Institute for Information Business, Vienna University of Economics and Business, Austria
-Liisa Mäkinen, University of Helsinki, Finland							
-Andrea Mannocci, The Open University, United Kingdom
-Angelo Antonio Salatino, The Open University, United Kingdom
-Raphaël Troncy, Data Science Department, EURECOM, France					
-Daniel Trottier, Department of Media and Communication, Erasmus University of Rotterdam, The Netherlands				
+
+Matthias Leese, Center for Security Studies, ETH Zurich, Switzerland
+
+Liisa Mäkinen, Social and Public Policy, University of Helsinki, Finland
+
+Andrea Mannocci, Knowledge Media Institute, The Open University, United Kingdom
+
+Angelo Antonio Salatino, Knowledge Media Institute, The Open University, United Kingdom
+
+Raphaël Troncy, Data Science Department, EURECOM, France
+
+Daniel Trottier, Department of Media and Communication, Erasmus University of Rotterdam, The Netherlands
+
 Dimitris Tsapogas, Department of Computer Science, University of Oxford, United Kingdom
+
 Nikolas Thomopoulos, Systems Management and Strategy, University of Greenwich, United Kingdom
+
 Lachlan Urquhart, Information Technology Law, Horizon Digital Economy Research Institute, United Kingdom
+
 Frank Van Harmelen, Network Institute, Vrije Universiteit Amsterdam, The Netherlands
-Pieter Verdegem,  School of Media, Arts & Design, University of Westminster, United Kingdom
-Serena Villata,  SPARKS-WIMMICS, INRIA, France
+
+Pieter Verdegem, School of Media, Arts & Design, University of Westminster, United Kingdom
+
+Serena Villata, SPARKS-WIMMICS, INRIA, France
  
 [1] https://easychair.org/conferences/?conf=rbm2017
 [2] https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
