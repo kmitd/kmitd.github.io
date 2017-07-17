@@ -2,6 +2,8 @@ Call for papers
 Re-coding Black Mirror- https://kmitd.github.io/recoding-black-mirror/
 Half day workshop at the 16th International Semantic Web Conference (ISWC 2017)
 21 or 22 October 2017, Vienna 
+
+** Deadline for submission extended to 28th July 2017 **
  
 Black Mirror is a British sci-fi series directed by Charlie Brooker portraying a dystopian future emanating from the wide use of digital advancements. Even though Black Mirror’s episodes do not entirely rely on the widespread availability of existing technology, some of the advancements presented are not from such a distant future. The ethical and social implications emerging from the increasing reliance on digital media -partly depicted in the series- has been a longstanding debate in critical studies underlying issues around privacy, social control, social and individual justice and other key values around Democracy such as freedom of speech. Computer science has picked up on such kind of issues focusing mainly on privacy offering technical solutions such as privacy by design and encryption amongst other tools.
 Re-coding Black Mirror is a half-day workshop which aims at promoting a dialogue between semantic web researchers and social scientists to address emerging social phenomena from different perspectives looking at case scenarios similar to the ones depicted in Black Mirror and explore potential semantic solutions to societal and ethical challenges. It will also be a forum for raising opportunities of networking with scholars from different fields to explore novel research problems that can be relevant to both communities. 
@@ -20,7 +22,7 @@ Re-coding Black Mirror is essentially about creating connections between researc
  
 SUBMISSION
  
-Please submit your contribution to the workshop by July 21st 2017 (23:59 Hawaii time) through the easychair system (see [1]). We accept three categories of submissions: full papers (max 12 pages) on research and applied technologies, short papers (max 6 pages) about visions and positions on forthcoming challenges and two page abstracts on the societal and ethical risks of the aforementioned technologies. 
+Please submit your contribution to the workshop by July 28th 2017 (23:59 Hawaii time, extended deadline) through the easychair system (see [1]). We accept three categories of submissions: full papers (max 12 pages) on research and applied technologies, short papers (max 6 pages) about visions and positions on forthcoming challenges and two page abstracts on the societal and ethical risks of the aforementioned technologies. 
 All papers should be formatted using the Springer LNCS template and submitted as PDF (see [2]).
 We expect each paper to take as a starting point one futuristic scenario, either directly from Black Mirror or of a similar nature, as motivation for the work presented.
  
