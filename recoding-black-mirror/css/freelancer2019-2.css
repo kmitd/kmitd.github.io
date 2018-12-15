@@ -17,7 +17,7 @@ a,
 a:focus,
 a:active,
 a.active {
-  color: #26D07C;
+  color: #FE5F00;
   text-decoration:none;
 }
 
@@ -56,18 +56,18 @@ hr.star-primary:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: #888888;
+  border-color: #988F2A;
 }
 hr.star-light:after {
-  background-color: #393c3a;
-  color: #393c3a;
+  background-color: #30332E;
+  color: #30332E;
 }
 hr.star-primary {
   border-color: #2C3E50;
 }
 hr.star-primary:after {
-  background-color: #888888;
-  color: #393c3a;
+  background-color: #988F2A;
+  color: #30332E;
 }
 .img-centered {
   margin: 0 auto;
@@ -75,7 +75,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   background: #18BC9C;
-  color: #888888;
+  color: #988F2A;
 }
 header .container {
   padding-top: 100px;
@@ -109,29 +109,29 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2e2e2e;
+  background: #010400;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
 }
 .navbar-custom .navbar-brand {
-  color: #888888;
+  color: #988F2A;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #888888;
+  color: #988F2A;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: #888888;
+  color: #988F2A;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #26D07C;
+  color: #FE5F00;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -187,12 +187,12 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #F0FFCE;
-  color: #888888;
+  background: #ADA391;
+  color: #988F2A;
 }
 
 section.info {
-  background: #276844;
+  background: #988F2A;
   color: #a7a7a7;
 }
 
@@ -302,7 +302,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 footer {
-   color: #26D07C;
+   color: #FE5F00;
 }
 footer h3 {
   margin-bottom: 30px;
@@ -316,7 +316,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #393c3a;
+  background-color: #30332E;
   color: #26d07c;
 }
 .btn-outline {
@@ -331,7 +331,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #26D07C;
+  color: #FE5F00;
   background: white;
   border: solid 2px white;
 }
@@ -533,7 +533,7 @@ div#maincontent {
 
  section.info hr.star-light:after {
   background-color: #5D5C4A;
-  color: #888888;
+  color: #988F2A;
 }
 
 .thumbnail p {
@@ -541,27 +541,26 @@ div#maincontent {
 }
 
 section.warning, section.warning hr.star-light:after {
-  background-color: #bafca3;
-  color: #393c3a;
+  background-color: #FE5F00;
+  color: #DCDCDC;
 }
 
 section.success, section.success hr.star-light:after {
-  background-color: #F0FFCE;
+  background-color: #ADA391;
   color: #276844;
 }
 
 section.danger, section.danger hr.star-light:after {
-  background-color: #393c3a;
-  color: #27d07c;
+  background-color: #30332E;
+  color: #988F2A;
 }
 section.danger hr.star-light {
 	 border-color: white;
 }
 
 header, header hr.star-light:after {	
-/*	background-image: url(../img/black-mirror-logo.jpg);*/
-	background-color: #393c3a;
-	color:#27d07c;
+	background-color: #30332E;
+	color:#988F2A;
 	
 }
 
@@ -569,8 +568,8 @@ header, header hr.star-light:after {
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  color: #26D07C;
-  background: #2e2e2e;
+  color: #FE5F00;
+  background: #010400;
 }
 
 p, h4 {
@@ -584,7 +583,7 @@ h1 ,h2, h3,h4,h5, h6 {
 
 
 .highlighttext {
-	background: #D3FDC4;
+	background: #FE8A45;
 	color: #707070;
     padding: 5px 5px;
     margin: 20px 10px !important;
