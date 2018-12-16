@@ -1,7 +1,7 @@
 Call for papers
-Re-coding Black Mirror- https://kmitd.github.io/recoding-black-mirror/
-One day workshop The WEB Conference 2018
-24 April 2018, Lyon
+Re-coding Black Mirror - https://kmitd.github.io/recoding-black-mirror/
+One day workshop The WEB Conference 2019
+13 or 14 May 2019, San Francisco, USA
  
 =====MOTIVATION=====
 
@@ -13,7 +13,7 @@ Re-coding Black Mirror is an one-day workshop which aims at creating dialogue an
 
 =====TOPICS===== 
 
-Given the novelty of the workshop format, we welcome submissions addressing two different issues, as explained in the brief summaries below. Possible submissions are not restricted to those examples, but works addressing those scenarios would be very much welcome too. You can also look at the submissions of the Re-coding Black Mirror 2017 edition [2].
+Given the novelty of the workshop format, we welcome submissions addressing two different issues, as explained in the brief summaries below. Possible submissions are not restricted to those examples, but works addressing those scenarios would be very much welcome too. You can also look at the submissions of the Re-coding Black Mirror 2017 and 2018 editions [2,3].
  
 (1) Works showing how the ongoing research in the web community could enable/lead to scenarios similar to the ones presented in Black Mirror episodes.
 
@@ -34,21 +34,22 @@ For example:
  
 =====SUBMISSION=====
  
-Please submit your contribution to the workshop by February 10th (23:59 Hawaii time) through the easychair system [1], choosing the track "#RCBlackMirror2018: Re-Coding Black Mirror Workshop" under the WWW2018Satellites conference. We accept three categories of submissions:
+Please submit your contribution to the workshop by February 15th (23:59 Hawaii time) through the easychair system [1]. We accept three categories of submissions:
 
 * Full papers (max 8 pages) on research and applied technologies,
 * Short papers (max 4 pages) about visions and positions on forthcoming challenges,
 * Abstracts (max 2 pages) on the societal and ethical risks of the aforementioned technologies.
 
-All papers should be formatted using the ACM template (Latex [3] and Word template [4] accepted). We expect each paper to take as a starting point one futuristic scenario, either directly from Black Mirror or of a similar nature, as motivation for the work presented.
+All papers should be formatted using the ACM template (Latex [4] and Word [5] template accepted). We expect each paper to take as a starting point one futuristic scenario, either directly from Black Mirror or of a similar nature, as motivation for the work presented.
  
 =====ORGANISERS=====
  
 * PINELOPI TROULLINOU, Knowledge Media Institute, The Open University, UK
 * MATHIEU D'AQUIN, Insight Centre for Data Analytics, NUI Galway, Ireland
-* ILARIA TIDDI, Knowledge Media Institute, The Open University, UK
+* ILARIA TIDDI, Knowledge Representation and Reasoning group, Vrije Universiteit Amsterdam, NL
 
-[1] https://easychair.org/conferences/?conf=www2018satellites (New submission -> Track "#RCBlackMirror2018: Re-Coding Black Mirror Workshop")
+[1] https://easychair.org/conferences/?conf=rbm2019
 [2] http://ceur-ws.org/Vol-1939/
-[3] https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip
-[4] https://portalparts.acm.org/hippo/acm_windows_word_template.zip
+[3] https://www2018.thewebconf.org/proceedings/
+[4] https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip
+[5] https://portalparts.acm.org/hippo/acm_windows_word_template.zip
