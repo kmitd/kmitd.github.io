@@ -1,0 +1,83 @@
+==== Call for Papers (AnSWeR 2018) ====
+2nd International Workshop on the ApplicatioNs of Semantic WEb technologies in Robotics - AnSWeR 2018
+Co-located with the International Semantic Web Conference 2018 (ESWC 2018)
+
+Date: October the 8th, 2018
+Venue: Monterey, California, US (co-located with ISWC2018)
+Hashtag: #answer2018
+Twitter: @answerworkshop
+Site: http://answer.kmi.open.ac.uk/
+
+Workshop chairs:
+- Emanuele Bastianelli - The Open University, UK
+- Masoumeh (Iran) Mansouri - Örebro University, Sweden
+- Ilaria Tiddi  - The Open University, UK
+
+Steering Committee:
+- Mathieu d'Aquin - Insight Centre for Data Analytics, Ireland
+- Daniele Nardi - Sapienza University of Rome, Italy
+
+# IMPORTANT DATES
+Submission deadline: Friday, June 1st
+Notification to authors: Wednesday, June 27th
+Camera-ready due on: Monday, July 16th
+Workshop day: Monday, October 8th
+
+# DESCRIPTION
+Autonomous mobile agents and robotics in general are experiencing a growing interest due to a number of factors, e.g. the advancements in Artificial Intelligence, Knowledge Management or Computer Vision; the amount of new efficient techniques for basic robotic tasks (perception, manipulation, navigation etc.); and the increasing number of cost-accessible robotic platforms in the market. As a consequence, robots will be required to achieve more and more complex tasks, hence exposing the ability of dealing with different sources of knowledge about the world in order to improve their behaviours. 
+
+While the Robotics community has started considering the problem of enabling robots to use sources of heterogeneous knowledge rather recently (see projects as KnowRob [ http://knowrob.org/ ] and Robobrain [ http://robobrain.me/ ], it can be argued that semantic technologies should also have a role to play, as they allowing to model, mine, manage and exploit knowledge from and for the Web,. 
+
+It is therefore important to understand how the Semantic Web community is interfacing with Robotics, and whether it can be actually beneficial. The first edition of AnSWeR in 2017 has promoted and triggered the dialogue between the two communities that are working on such connected topics. Although a large attention has been obtained, encouraging us to maintain and evolve the conversation, a further effor is needed. The goal of the second edition of the AnSWeR workshop is thus to strenghten this dialogue, giving researchers and practitioners the opportunity to compare and debate on common problems, bridging the gap between these overlapping, but mostly isolated communities. 
+
+We expect original, high-quality contributions embracing both the general topics of semantic technologies and Robotics. Researchers whose work have reached a certain level of maturity or have already developed impactful applications are invited to submit full papers. Initial works, ongoing challenges, or not yet fully evaluated systems are also welcome, and can be submitted in the form of short papers, position papers and demos.
+
+Authors are encouraged, but not limited, to consider the following set of topics:
+
+- Usability of available Semantic Web resources in Robotics
+- Semantic methods to support the development of robotic systems
+- Representation and reasoning for Robotics
+- Knowledge representation systems for robots
+- Semantic solutions to enable spatio-temporal planning and reasoning
+- Ontologies and standardisation of terminology for Robotics applications
+- Semantic Maps
+- Knowledge acquisition in robotic applications
+- Integration of local robotic knowledge with data from the Web
+- Planning and navigation using semantic data and knowledge
+- Robotics within the Web of Things
+- Knowledge and perception
+- Semantic technologies to support Cloud Robotics systems
+- Semantic approaches for entity linking, grounding and anchoring
+- Concrete use cases of working robotic systems exploiting Semantic Web approaches
+- Future trends at the intersection of Robotics and the (Semantic) Web
+
+Submissions in all the categories mentioned above (full, short, position, demo papers) will be peer-reviewed by researchers familiar with both scientific communities. 
+
+Assuming a sufficient number of submissions, accepted contributions will be published as online proceedings courtesy of CEUR-WS.org. Moreover, workshop chairs will award the best paper to be published as part of the proceedings of the ISWC 2018 conference.
+
+# SUBMISSION INSTRUCTIONS
+All papers must present original and unpublished work that is not currently under review. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+
+We welcome the following types of contributions:
+- Full papers (up to 12 pages)
+- Short papers, position papers or demos (up to 6 pages)
+
+All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors
+[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ].
+Papers are to be submitted through the Easychair Conference Management System. [ https://easychair.org/conferences/?conf=answer18 ]
+Page limits are inclusive of references and appendices, if any.
+
+# PROGRAM COMMITTEE
+- Valerio Basile, Université Côte d'Azur, Inria, CNRS, France
+- Elena Cabrio, Université Côte d'Azur, Inria, CNRS, France
+- Joachim Hertzberg, University of Ösnabruck, Germany
+- Alessandro Russo, ISTC CNR, Italy
+- Alessandro Saffiotti, Orebro University, Sweden
+- Philipp Cimiano, Bielefeld University, Germany
+- Enrico Daga, The Open University, UK
+- Daniela D’Auria, University of Naples Federico II, Italy
+- Esra Erdem, Sabanci University, Turkey
+- Femke Ongenae, Ghent University, Belgium
+- Andrea Orlandini, ISTC CNR, Italy
+- Andrea Mannocci, The Open University, UK
+- Others TBA

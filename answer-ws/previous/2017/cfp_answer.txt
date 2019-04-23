@@ -1,0 +1,94 @@
+==== Call for Papers (AnSWeR 2017) ====
+1st International Workshop on Application of Semantic Web technologies in Robotics - AnSWeR 2017
+Co-located with the Extended Semantic Web Conference 2017 (ESWC 2017)
+
+Date: May the 29th, 2017
+Venue: Portoroz, Slovenia (co-located with ESWC 2017)
+Hashtag: #answer2017
+Twitter: @answerworkshop
+Site: http://answer.kmi.open.ac.uk/
+
+Workshop chairs:
+- Emanuele Bastianelli - The Open University
+- Mathieu d'Aquin - The Open University
+- Daniele Nardi - Sapienza University of Rome
+
+# DESCRIPTION
+Robots are slowly spreading outside the industrial and research environment, to approach our everyday life. As this happens, robots will need to expose an increasing capability to deal with different sources of knowledge about the world, to accomplish complex tasks involving Planning, Computer Vision, Natural Language Processing and so on. The need for integrating robots with Knowledge Bases to provide them with a basic understanding of semantics has been already noticed by the Robotics community, and is testified by research projects such as KnowRob [ http://knowrob.org/ ] and Robobrain [ http://robobrain.me/ ]. 
+
+It is therefore natural to think about whether and how the Semantic Web can have a role in this context. In recent years, the Semantic Web community has studied how to model, mine, manage and exploit knowledge from and for the Web, promoting in parallel the adoption of standards for knowledge representation. In this sense, Robotics appears as a key application domain for Semantic Web technologies, whose findings can be applied, adapted and further developed, as also showed by projects such as RoboEarth [ http://roboearth.ethz.ch/ ]. 
+
+It is therefore important to understand how the Semantic Web community is interfacing with Robotics, and whether it can be actually beneficial. To this end, the aim of this workshop is to promote and strengthen the dialogue between the two communities that are working on such connected topics, in order to find answers to the posed questions (and hopefully to ask new questions). The stimulated debate should then serve as a background in fostering, on the one hand, the application of Semantic Web standards and techniques in problems common to Robotics, while on the other, in highlighting Robotics as a fertile application field for the Semantic Web community. 
+
+We expect original, high-quality contributions embracing both the general topics of Semantic Web and Robotics. Researchers whose work have reached a certain level of maturity or have already developed impactful applications are invited to submit full papers.
+Initial works, ongoing challenges, or not yet fully evaluated systems are also welcome, and can be submitted in the form of short papers, position papers and demos.
+
+While we aim for AnSWeR to cover the broad range of potential interactions between the Semantic Web and Robotics, authors are encouraged to consider the following set of topics:
+
+- Robotics application using Semantic Web technologies
+- Semantic methods to support the development of robotic systems
+- Knowledge acquisition in robotic applications
+- Representation and reasoning for Robotics
+- Standardisation of terminology for robotics
+- Automation using ontologies
+- Planning and navigation using semantic data and knowledge
+- Semantic Maps
+- Interlinking local robotic knowledge with information coming from the Web of Data
+- Usability of available Semantic Web resources in Robotics
+- Knowledge sharing and exchange among several robotic platforms or applications
+- Knowledge and perception
+- Entity linking, grounding and anchoring
+- Concrete use cases of working robotic systems exploiting Semantic Web approaches
+- Robotics within the Web of Things
+- Semantics to support Cloud Robotics 
+- Future trends at the intersection of Robotics and the Semantic Web
+
+Submissions in all the categories mentioned above (full, short, position, demo papers) will be peer-reviewed by researchers familiar with both scientific communities. 
+Assuming a sufficient number of submissions, accepted contributions will be published as online proceedings courtesy of CEUR-WS.org. Moreover, workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2017 conference.
+
+# IMPORTANT DATES
+Submission deadline: (Friday, March 3) EXTENDED DEADLINE -> Friday, March 10!!!
+Notification to authors: Friday, March 31
+Camera-ready due on: Thursday, April 13
+Workshop day: Monday, May 29
+
+# SUBMISSION INSTRUCTIONS
+All papers must represent original and unpublished work that is not currently under review. Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+
+We welcome the following types of contributions:
+- Full papers (up to 10 pages)
+- Short papers, position papers or demos (up to 5 pages)
+
+All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors
+[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ].
+Papers are to be submitted through the Easychair Conference Management System. [ https://easychair.org/conferences/?conf=answer17 ]
+Page limits are inclusive of references and appendices, if any.
+
+# PROGRAM COMMITTEE
+- Maurizio Atzori, University of Cagliari, Italy
+- Ebrahim Bagheri, Ryerson University, Canada
+- Valerio Basile, Université Côte d'Azur, Inria, CNRS, France
+- Vaishak Belle, KU Leuven, Belgium
+- Elena Cabrio, Université Côte d'Azur, Inria, CNRS, France
+- Philipp Cimiano, Bielefeld University, Germany
+- Enrico Daga, Open University, UK
+- Daniela D’Auria, University of Naples Federico II, Italy
+- Daniele Dell'Aglio, University of Zuirch, Switzerland
+- Christian Dornhege, University of Freiburg, Germany
+- Esra Erdem, Sabanci University, Turkey
+- Mohammad Farazi, Birmingham City University, UK
+- Malik Ghallab, Univesity of Toulouse, France
+- Fei Han, Colorado School of Mines, USA
+- Marc Hanheide, University of Lincoln, UK
+- Fredrik Heintz, Linköping University, Sweden
+- Joachim Hertzberg, University of Ösnabruck, Germany
+- George Konidaris, Duke University, USA
+- Lars Kunze, University of Birmingham, UK
+- Gerhard Lakemeyer, RWTH Aachen University, Germany
+- Masoumeh Mansouri, Örebro University, Sweden
+- Femke Ongenae, Ghent University, Belgium
+- Andrea Orlandini, ISTC CNR, Italy
+- Valentina Presutti, ISTC CNR, Italy
+- Alessandro Russo, ISTC CNR, Italy
+- Alessandro Saffiotti, Orebro University, Sweden
+- Ilaria Tiddi, The Open University, UK
